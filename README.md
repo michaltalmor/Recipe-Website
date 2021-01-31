@@ -28,9 +28,7 @@ by clicking the "add to favorites" button on the recipe preview.
 by clicking the "add to favorites" button in the recipe presentation page.
 3 last recently watched recipes - when a connected user opens the home page, will see a list of the 3 last recipes he watched.
 
-currently, users don't have the option to add family and presonal recipes by themselves, and the recipes were added in advance to the DB (that functionality might be added in the future..) An example to exist user with all kinds of recipes:
-
-username: noashab
+currently, users don't have the option to add family and presonal recipes by themselves, and the recipes were added in advance to the DB (that functionality might be added in the future..) 
 
 password: 12345
 
